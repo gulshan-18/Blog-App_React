@@ -1,0 +1,63 @@
+.red-star {
+  color: red;
+}
+
+.fieldset-custom {
+  display: block;
+  margin-inline-start: 2px;
+  margin-inline-end: 2px;
+  padding-block-start: 0.35em;
+  padding-inline-start: 0.75em;
+  padding-inline-end: 0.75em;
+  padding-block-end: 0.625em;
+  min-inline-size: min-content;
+  border-width: 2px;
+  border-style: groove;
+  border-color: threedface;
+  border-image: initial;
+}
+
+.legend-custom {
+  width: auto;
+  padding: 20px;
+}
+
+.fixed-bottom {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
+
+.fixed-top {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.mini-footer {
+  background: white;
+  text-align: center;
+  padding: 12px 0;
+}
+
+.mini-footer p {
+  margin: 0;
+  line-height: 26px;
+  font-size: 15px;
+  color: #999;
+}
+
+.mini-footer p a {
+  color: #5867dd;
+}
+
+.mini-footer p a:hover {
+  color: #34bfa3;
+}
+
+.header-h2 {
+  margin: 0;
+  line-height: 26px;
+  font-size: 20px;
+  color: #999;
+}
